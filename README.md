@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/biboshu/bibo-desktop/releases"><img src="https://img.shields.io/github/v/release/biboshu/bibo-desktop" alt="Latest Release"></a>
-  <a href="https://github.com/biboshu/bibo-desktop/blob/main/LICENSE"><img src="https://img.shields.io/github/license/biboshu/bibo-desktop" alt="License"></a>
-  <a href="https://github.com/biboshu/bibo-desktop/releases"><img src="https://img.shields.io/github/downloads/biboshu/bibo-desktop/total" alt="Downloads"></a>
+  <a href="https://github.com/biboshu/bibo-app/releases"><img src="https://img.shields.io/github/v/release/biboshu/bibo-app" alt="Latest Release"></a>
+  <a href="https://github.com/biboshu/bibo-app/blob/main/LICENSE"><img src="https://img.shields.io/github/license/biboshu/bibo-app" alt="License"></a>
+  <a href="https://github.com/biboshu/bibo-app/releases"><img src="https://img.shields.io/github/downloads/biboshu/bibo-app/total" alt="Downloads"></a>
 </p>
 
 ## About Bibo

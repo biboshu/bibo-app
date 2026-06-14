@@ -17,16 +17,16 @@ This project requires the [bibo-webapp](https://github.com/biboshu/bibo-webapp) 
 
 ```bash
 mkdir bibo && cd bibo
-git clone https://github.com/biboshu/bibo-webapp.git webapp
-git clone https://github.com/biboshu/bibo-desktop.git client
+git clone https://github.com/biboshu/bibo-webapp.git
+git clone https://github.com/biboshu/bibo-app.git
 ```
 
 Your directory structure should look like this:
 
 ```
 bibo/
-├── webapp/    # Frontend (SvelteKit)
-└── client/    # Desktop shell (Tauri)
+├── bibo-webapp/    # Frontend (SvelteKit)
+└── bibo-app/    # Desktop shell (Tauri)
 ```
 
 Then install dependencies and run:
@@ -35,7 +35,7 @@ Then install dependencies and run:
 cd webapp
 pnpm install
 
-cd ../client
+cd ../bibo-app
 pnpm install
 pnpm tauri:dev
 ```
